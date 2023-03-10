@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A7wWf/Xiexd5403qn3Z2TsuNF/yXgT46xHhOX9NGGHq0Bc/7bLOn723Ktb3f5x8eY2F+nR3YbyBH56q4CMfnjw==",
+  "success": true,
+  "projectFilePath": "/home/arivusurya/dailyAssingment/addresBook/AddressBook/AddressBook.csproj",
+  "expectedPackageFiles": [
+    "/home/arivusurya/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
